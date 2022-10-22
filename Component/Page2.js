@@ -58,7 +58,7 @@ const Page2 = ({ navigation, route }) => {
           marginBottom: 20,
           alignItems: 'center',
         }}>
-          <Text>Copyright Ahmad Adriansyah Hasibuan - 119140079</Text>
+          <Text>Copyright Ahmad Adriansyah Hasibuan-119140079</Text>
         </View>
       </SafeAreaView>
     )
@@ -89,7 +89,7 @@ const Page2 = ({ navigation, route }) => {
         marginBottom: 20,
         alignItems: 'center',
       }}>
-        <Text>Copyright Ahmad Adriansyah Hasibuan - 119140079</Text>
+        <Text>Copyright Ahmad Adriansyah Hasibuan-119140079</Text>
       </View>
     </SafeAreaView>
   );
